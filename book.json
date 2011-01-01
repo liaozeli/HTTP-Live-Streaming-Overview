@@ -1,2 +1,243 @@
 
-{"title":"HTTP Live Streaming Overview","type":"Conceptual Flow","uid":"TP40008332","technology":"Internet & Web","assignments":["Type/Guide","Topic/Networking & Internet"],"PDF":{"href":"StreamingMediaGuide.pdf"},"shouldDisplayTOC":true,"sections":[{"href":"Introduction/Introduction.html#//apple_ref/doc/uid/TP40008332-CH1-DontLinkElementID_30","aref":"//apple_ref/doc/uid/TP40008332-CH1-DontLinkElementID_30","title":"Introduction"},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-SW2","aref":"//apple_ref/doc/uid/TP40008332-CH101-SW2","title":"HTTP Streaming Architecture","sections":[{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_1","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_1","title":"Overview","sections":[]},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_2","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_2","title":"Server Components","sections":[{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-SW3","aref":"//apple_ref/doc/uid/TP40008332-CH101-SW3","title":"Media Encoder","sections":[]},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_3","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_3","title":"Stream Segmenter","sections":[]},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_4","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_4","title":"File Segmenter","sections":[]}]},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_5","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_5","title":"Media Segment Files","sections":[]},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_6","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_6","title":"Distribution Components","sections":[]},{"href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_7","aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_7","title":"Client Component","sections":[]}]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-SW1","aref":"//apple_ref/doc/uid/TP40008332-CH102-SW1","title":"Using HTTP Live Streaming","sections":[{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-SW3","aref":"//apple_ref/doc/uid/TP40008332-CH102-SW3","title":"Download the Tools","sections":[{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_11","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_11","title":"Media Stream Segmenter","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_12","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_12","title":"Media File Segmenter","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_13","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_13","title":"Media Stream Validator","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_14","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_14","title":"Varient Playlist Creator","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_15","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_15","title":"Metadata Tag Generator","sections":[]}]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_16","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_16","title":"Session Types","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_17","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_17","title":"Content Protection","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_18","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_18","title":"Caching and Delivery Protocols","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_19","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_19","title":"Stream Alternates","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_20","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_20","title":"Video Over Cellular Networks","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_21","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_21","title":"Requirements for Apps","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_22","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_22","title":"Failover Protection","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-SW4","aref":"//apple_ref/doc/uid/TP40008332-CH102-SW4","title":"Adding Metadata","sections":[]},{"href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_23","aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_23","title":"Sample Streams","sections":[]}]},{"href":"FrequentlyAskedQuestions/FrequentlyAskedQuestions.html#//apple_ref/doc/uid/TP40008332-CH103-SW1","aref":"//apple_ref/doc/uid/TP40008332-CH103-SW1","title":"Frequently Asked Questions","isPart":false},{"href":"RevisionHistory.html#//apple_ref/doc/uid/TP40008332-CH99-DontLinkElementID_34","aref":"//apple_ref/doc/uid/TP40008332-CH99-DontLinkElementID_34","title":"Revision History","isPart":false}],"needsAdditionalLinksSeparator":false,"relatedBooks":[]}
+
+
+{
+    "title":"HTTP Live Streaming Overview|基于HTTP协议的流媒体直播概述",
+    "type":"Conceptual Flow",
+    "uid":"TP40008332",
+    "technology":"Internet & Web",
+    "assignments":
+    [
+        "Type/Guide",
+        "Topic/Networking & Internet"
+    ],
+    "PDF":
+    {
+        "href":"StreamingMediaGuide.pdf"
+    },
+    "shouldDisplayTOC":true,
+    "sections":
+    [
+        {
+            "href":"Introduction/Introduction.html#//apple_ref/doc/uid/TP40008332-CH1-DontLinkElementID_30",
+            "aref":"//apple_ref/doc/uid/TP40008332-CH1-DontLinkElementID_30",
+            "title":"Introduction|介绍"
+        },
+        {
+            "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-SW2",
+            "aref":"//apple_ref/doc/uid/TP40008332-CH101-SW2",
+            "title":"HTTP Streaming Architecture|基于HTTP流媒体架构",
+            "sections":
+            [
+                {
+                    "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_1",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_1",
+                    "title":"Overview|概述",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_2",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_2",
+                    "title":"Server Components|服务器组件",
+                    "sections":
+                    [
+                        {
+                            "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-SW3",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH101-SW3",
+                            "title":"Media Encoder|多媒体文件编码器",
+                            "sections":
+                            [
+                            ]
+                        },
+                        {
+                            "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_3",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_3",
+                            "title":"Stream Segmenter|流媒体片段",
+                            "sections":
+                            [
+                            ]
+                        },
+                        {
+                            "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_4",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_4",
+                            "title":"File Segmenter",
+                            "sections":
+                            [
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_5",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_5",
+                    "title":"Media Segment Files",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_6",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_6",
+                    "title":"Distribution Components",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_7",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_7",
+                    "title":"Client Component",
+                    "sections":
+                    [
+                    ]
+                }
+            ]
+        },
+        {
+            "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-SW1",
+            "aref":"//apple_ref/doc/uid/TP40008332-CH102-SW1",
+            "title":"Using HTTP Live Streaming",
+            "sections":
+            [
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-SW3",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-SW3",
+                    "title":"Download the Tools",
+                    "sections":
+                    [
+                        {
+                            "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_11",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_11",
+                            "title":"Media Stream Segmenter",
+                            "sections":
+                            [
+                            ]
+                        },
+                        {
+                            "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_12",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_12",
+                            "title":"Media File Segmenter",
+                            "sections":
+                            [
+                            ]
+                        },
+                        {
+                            "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_13",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_13",
+                            "title":"Media Stream Validator",
+                            "sections":
+                            [
+                            ]
+                        },
+                        {
+                            "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_14",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_14",
+                            "title":"Varient Playlist Creator",
+                            "sections":
+                            [
+                            ]
+                        },
+                        {
+                            "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_15",
+                            "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_15",
+                            "title":"Metadata Tag Generator",
+                            "sections":
+                            [
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_16",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_16",
+                    "title":"Session Types",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_17",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_17",
+                    "title":"Content Protection",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_18",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_18",
+                    "title":"Caching and Delivery Protocols",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_19",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_19",
+                    "title":"Stream Alternates",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_20",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_20",
+                    "title":"Video Over Cellular Networks",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_21",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_21",
+                    "title":"Requirements for Apps",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_22",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_22",
+                    "title":"Failover Protection",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-SW4",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-SW4",
+                    "title":"Adding Metadata",
+                    "sections":
+                    [
+                    ]
+                },
+                {
+                    "href":"UsingHTTPLiveStreaming/UsingHTTPLiveStreaming.html#//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_23",
+                    "aref":"//apple_ref/doc/uid/TP40008332-CH102-DontLinkElementID_23",
+                    "title":"Sample Streams",
+                    "sections":
+                    [
+                    ]
+                }
+            ]
+        },
+        {
+            "href":"FrequentlyAskedQuestions/FrequentlyAskedQuestions.html#//apple_ref/doc/uid/TP40008332-CH103-SW1",
+            "aref":"//apple_ref/doc/uid/TP40008332-CH103-SW1",
+            "title":"Frequently Asked Questions",
+            "isPart":false
+        },
+        {
+            "href":"RevisionHistory.html#//apple_ref/doc/uid/TP40008332-CH99-DontLinkElementID_34",
+            "aref":"//apple_ref/doc/uid/TP40008332-CH99-DontLinkElementID_34",
+            "title":"Revision History",
+            "isPart":false
+        }
+    ],
+    "needsAdditionalLinksSeparator":false,
+    "relatedBooks":
+    [
+    ]
+}
