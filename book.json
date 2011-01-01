@@ -54,7 +54,7 @@
                         {
                             "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_3",
                             "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_3",
-                            "title":"Stream Segmenter|流媒体片段",
+                            "title":"Stream Segmenter|流媒体片段器",
                             "sections":
                             [
                             ]
@@ -62,7 +62,7 @@
                         {
                             "href":"HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_4",
                             "aref":"//apple_ref/doc/uid/TP40008332-CH101-DontLinkElementID_4",
-                            "title":"File Segmenter",
+                            "title":"File Segmenter|文件片段器",
                             "sections":
                             [
                             ]
